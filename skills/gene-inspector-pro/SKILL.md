@@ -1,6 +1,6 @@
 ---
 name: gene-inspector-pro
-description: Explore a user's connected Gene Inspector Pro genome through its read-only MCP server. Use when the user asks to inspect their Gene Inspector Pro genes, variants, panels, pathways, or source evidence, or to compare findings in a connected personal genome. Do not use for general genetics questions that do not require the user's Gene Inspector Pro data.
+description: Help people explore their Gene Inspector Pro DNA results with an AI assistant. Use it to review genes and variants in a connected genome, browse health-topic panels and pathways, compare findings, and understand supporting evidence and limitations. For personal Gene Inspector Pro data only—not general genetics questions, diagnosis, or treatment.
 license: Apache-2.0
 metadata:
   author: GeneticPath
@@ -9,7 +9,7 @@ metadata:
 
 # Gene Inspector Pro
 
-Use the Gene Inspector Pro MCP tools to answer the user's question from the minimum necessary portion of their connected genome. Keep the work read-only, evidence-aware, and non-clinical.
+Connect your Gene Inspector Pro account to explore the genes, variants, panels, and pathways found in your processed DNA. Your AI assistant can explain the evidence, highlight uncertainty, and help you decide what to investigate next—all through read-only access. It is for research and education, not diagnosis or treatment.
 
 ## Establish access
 
